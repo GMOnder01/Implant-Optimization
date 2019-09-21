@@ -14,3 +14,4 @@ import subprocess
     subprocess.call(['C:\SIMULIA\Abaqus\Commands\\abq6131.bat cae noGUI=C:\Users\scadscad\Desktop\\filesfornewpc\implantanalyses\\createrpt4.py'], shell=True)
 
 
+For the whole optimization process, unpack filesfornewpc.zip and change filepaths 
