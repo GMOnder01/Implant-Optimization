@@ -1,6 +1,6 @@
 # Implant-Optimization
 
-From analyses-selfc.py file, change the filepath of assembled file in step file
+From analyses-selfc.py file, change the filepath of assembled design in step format 
 
 Start abaqus software with this python code
 
